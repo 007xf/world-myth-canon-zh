@@ -8,9 +8,9 @@ English: [README.en.md](README.en.md)
 
 ## 仓库现状
 
-目前发布 **195** 种已译完、带封面的 EPUB。主序列有 **205** 个现行编号位置：195 本成品加 10 个未译完或中途暂停的保留位。文件名采用三位编号加书名，例如 `001 埃利都创世记.epub`。
+目前发布 **203** 种已译完、带封面的 EPUB。主序列有 **205** 个现行编号位置：203 本成品加 2 个未译完或中途暂停的保留位。文件名采用三位编号加书名，例如 `001 埃利都创世记.epub`。
 
-旧目录中 25 个未实施或已取消的条目已从主序列删除，不再形成空号。其余条目已整体前移，只有下方 10 个未完/暂停位置没有 EPUB。
+旧目录中 25 个未实施或已取消的条目已从主序列删除，不再形成空号。其余条目已整体前移，只有下方 2 个未完/暂停位置没有 EPUB。
 
 [附录/000 FGO神话人物总表.epub](%E9%99%84%E5%BD%95/000%20FGO%E7%A5%9E%E8%AF%9D%E4%BA%BA%E7%89%A9%E6%80%BB%E8%A1%A8.epub) 是 Fate/Grand Order 人物与本书的对照索引，不进入 001 起的主序列。
 
@@ -22,16 +22,16 @@ English: [README.en.md](README.en.md)
 
 | 现行编号 | 书名 | 状态 |
 | --- | --- | --- |
-| 071 | 《摩诃婆罗多》 | 未译完；进行中后停笔；始初篇、大会篇已写，森林篇约至第 155 节，十八篇未完。 |
-| 144 | 沃尔夫拉姆·冯·埃申巴赫《帕西法尔》 | 中途暂停；第十六卷未完，未拼成 EPUB。 |
-| 146 | 托马斯·马洛礼《亚瑟之死》 | 中途暂停；无成品 EPUB。 |
-| 163 | 《丘马耶尔的奇兰·巴兰之书》 | 中途暂停；未封，无成品 EPUB。 |
-| 165 | 《佛罗伦萨抄本》卷一至三、六 | 中途暂停；无成品 EPUB。 |
-| 167 | 《瓦罗奇里手稿》 | 中途暂停；无成品 EPUB。 |
-| 168 | 《纳瓦霍创世记》（原名 Diné Bahaneʼ） | 中途暂停；无成品 EPUB。 |
+| 071 | 《摩诃婆罗多》 | 本地 EPUB 缺第六、七、十二、十三篇正文，暂不发布。 |
 | 173 | 《希伊阿卡与佩蕾史诗》 | 中途暂停；无成品 EPUB；与已发布的《佩蕾与希伊阿卡》不是同一部书。 |
-| 176 | 《学宫知识》 | 中途暂停；未完。 |
-| 195 | 《皮斯蒂斯·索菲亚》 | 中途暂停；无成品 EPUB。 |
+
+## 本次更新（2026-09-27）
+
+新增 8 本：144《帕西法尔》、146《亚瑟之死》、163《丘马耶尔的奇兰·巴兰之书》、165《佛罗伦萨抄本》卷一至三、六、167《瓦罗奇里手稿》、168《纳瓦霍创世记》、176《学宫知识》、195《皮斯蒂斯·索菲亚》。沿用现行编号。
+
+版本范围：167 收录 Markham 1873 年英译所据的阿维拉八章文本，**不是克丘亚语《瓦罗奇里手稿》三十一章全本**；168 收录 Matthews 1897 年《纳瓦霍起源传说》，不是 Zolbrod 1984 年《Diné bahaneʼ》。各册具体范围见书内底本说明。
+
+本次检查了新增 EPUB 的压缩完整性、XML、清单资源、封面和正文结构；这些检查不等于逐句译文审校。071 的本地 EPUB 尚缺四篇，173 未找到成品，继续保留空号。
 
 ## 完整目录与逐书简介
 
@@ -244,9 +244,9 @@ English: [README.en.md](README.en.md)
 - [141 克雷蒂安·德·特鲁瓦亚瑟传奇五篇](141%20%E5%85%8B%E9%9B%B7%E8%92%82%E5%AE%89%C2%B7%E5%BE%B7%C2%B7%E7%89%B9%E9%B2%81%E7%93%A6%E4%BA%9A%E7%91%9F%E4%BC%A0%E5%A5%87%E4%BA%94%E7%AF%87.epub)（*Arthurian Romances of Chrétien de Troyes*） — 按 Erec et Enide、Cligès、Lancelot、Yvain、Perceval 的顺序阅读；这里出现兰斯洛特、宫廷爱情与早期圣杯叙事。 [来源](<https://d.lib.rochester.edu/camelot/>)
 - [142 罗贝尔·德·博龙《亚利马太的约瑟》与《梅林》](142%20%E7%BD%97%E8%B4%9D%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E5%8D%9A%E9%BE%99%E4%BA%9A%E5%88%A9%E9%A9%AC%E5%A4%AA%E7%9A%84%E7%BA%A6%E7%91%9F%E4%B8%8E%E6%A2%85%E6%9E%97.epub)（*Joseph d'Arimathie and Merlin*） — 把圣杯明确连接到最后的晚餐、亚利马太的约瑟与不列颠，并重塑梅林传统。 [来源](<https://d.lib.rochester.edu/camelot/>)
 - [143 《兰斯洛特与圣杯循环》（又称《武加大循环》）](143%20%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9%E4%B8%8E%E5%9C%A3%E6%9D%AF%E5%BE%AA%E7%8E%AF.epub)（*Lancelot-Grail Cycle*） — 完整阅读兰斯洛特、圣杯追寻与亚瑟之死诸部分；这是后世圆桌世界的主要结构来源。 [来源](<https://d.lib.rochester.edu/camelot/>)
-- **144 沃尔夫拉姆·冯·埃申巴赫《帕西法尔》｜中途暂停，暂不发布**（*Parzival*） — 把圣杯写成具有独立神学与诗学结构的德语分支，不以法语循环替代。 [来源](<https://d.lib.rochester.edu/camelot/>)
+- [144 沃尔夫拉姆·冯·埃申巴赫《帕西法尔》](144%20%E6%B2%83%E5%B0%94%E5%A4%AB%E6%8B%89%E5%A7%86%C2%B7%E5%86%AF%C2%B7%E5%9F%83%E7%94%B3%E5%B7%B4%E8%B5%AB%E5%B8%95%E8%A5%BF%E6%B3%95%E5%B0%94.epub)（*Parzival*） — 把圣杯写成具有独立神学与诗学结构的德语分支，不以法语循环替代。 [来源](<https://d.lib.rochester.edu/camelot/>)
 - [145 《高文爵士与绿衣骑士》](145%20%E9%AB%98%E6%96%87%E7%88%B5%E5%A3%AB%E4%B8%8E%E7%BB%BF%E8%A1%A3%E9%AA%91%E5%A3%AB.epub)（*Sir Gawain and the Green Knight*） — 以斩首游戏、诱惑考验与绿色腰带呈现亚瑟宫廷的荣誉危机。 [来源](<https://d.lib.rochester.edu/camelot/>)
-- **146 托马斯·马洛礼《亚瑟之死》｜中途暂停，暂不发布**（*Le Morte Darthur*） — 作为中世纪亚瑟传统的汇流终点完整阅读；选依据温彻斯特手稿或卡克斯顿本的未删节校勘译本。 [来源](<https://d.lib.rochester.edu/camelot/>)
+- [146 托马斯·马洛礼《亚瑟之死》](146%20%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%A9%AC%E6%B4%9B%E7%A4%BC%E4%BA%9A%E7%91%9F%E4%B9%8B%E6%AD%BB.epub)（*Le Morte Darthur*） — 作为中世纪亚瑟传统的汇流终点完整阅读；选依据温彻斯特手稿或卡克斯顿本的未删节校勘译本。 [来源](<https://d.lib.rochester.edu/camelot/>)
 
 ### 芬兰、波罗的与斯拉夫传统：口传记录（6 项）
 
@@ -278,12 +278,12 @@ English: [README.en.md](README.en.md)
 优先原住民语言原文对照；殖民期记录要同时看抄写、翻译和宗教干预背景。
 
 - [162 《波波尔·乌》](162%20%E6%B3%A2%E6%B3%A2%E5%B0%94%C2%B7%E4%B9%8C.epub)（*Popol Vuh*） — 读带基切语转写的完整直译本。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
-- **163 《丘马耶尔的奇兰·巴兰之书》｜中途暂停，暂不发布**（*Books of Chilam Balam of Chumayel*） — 多层文本，不按现代小说期待连续情节。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
+- [163 《丘马耶尔的奇兰·巴兰之书》](163%20%E4%B8%98%E9%A9%AC%E8%80%B6%E5%B0%94%E7%9A%84%E5%A5%87%E5%85%B0%C2%B7%E5%B7%B4%E5%85%B0%E4%B9%8B%E4%B9%A6.epub)（*Books of Chilam Balam of Chumayel*） — 多层文本，不按现代小说期待连续情节。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
 - [164 《卡克奇克尔编年史》](164%20%E5%8D%A1%E5%85%8B%E5%A5%87%E5%85%8B%E5%B0%94%E7%BC%96%E5%B9%B4%E5%8F%B2.epub)（*Annals of the Cakchiquels*） — 从迁徙神话到殖民遭遇的本族文本。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
-- **165 《佛罗伦萨抄本》卷一至三、六｜中途暂停，暂不发布**（*Florentine Codex, Books I-III and VI*） — 神祇、仪式与修辞；承认殖民问答框架。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
+- [165 《佛罗伦萨抄本》卷一至三、六](165%20%E4%BD%9B%E7%BD%97%E4%BC%A6%E8%90%A8%E6%8A%84%E6%9C%AC%E5%8D%B7%E4%B8%80%E8%87%B3%E4%B8%89%E3%80%81%E5%85%AD.epub)（*Florentine Codex, Books I-III and VI*） — 神祇、仪式与修辞；承认殖民问答框架。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
 - [166 《墨西哥歌集》](166%20%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%AD%8C%E9%9B%86.epub)（*Cantares Mexicanos*） — 选带原文的校勘译本，阅读神圣歌与历史歌。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
-- **167 《瓦罗奇里手稿》｜中途暂停，暂不发布**（*Huarochirí Manuscript*） — 帕里亚卡卡、地方华卡与殖民初期宗教世界。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
-- **168 《纳瓦霍创世记》（原名 Diné Bahaneʼ）｜中途暂停，暂不发布** — 从地下诸世界到当前世界；尊重仪式知识边界。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
+- [167 《瓦罗奇里手稿》（阿维拉八章文本）](167%20%E7%93%A6%E7%BD%97%E5%A5%87%E9%87%8C%E6%89%8B%E7%A8%BF.epub)（*Huarochirí Manuscript*） — 帕里亚卡卡、地方华卡与殖民初期宗教世界。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
+- [168 《纳瓦霍创世记》（本版据 Matthews 1897《纳瓦霍起源传说》）](168%20%E7%BA%B3%E7%93%A6%E9%9C%8D%E5%88%9B%E4%B8%96%E8%AE%B0.epub) — 从地下诸世界到当前世界；尊重仪式知识边界。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
 - [169 《祖尼创世神话》](169%20%E7%A5%96%E5%B0%BC%E5%88%9B%E4%B8%96%E7%A5%9E%E8%AF%9D.epub)（*Zuni Creation Myths*） — 十九世纪记录需与后续祖尼学者视角对照。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
 - [170 《海达人文本与神话》乌鸦故事组](170%20%E6%B5%B7%E8%BE%BE%E4%BA%BA%E6%96%87%E6%9C%AC%E4%B8%8E%E7%A5%9E%E8%AF%9D%E4%B9%8C%E9%B8%A6%E6%95%85%E4%BA%8B%E7%BB%84.epub)（*Haida Texts and Myths: Raven Cycles*） — 按讲述者读乌鸦故事，不拼成唯一正典。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
 - [171 《黑脚人帐篷故事》](171%20%E9%BB%91%E8%84%9A%E4%BA%BA%E5%B8%90%E7%AF%B7%E6%95%85%E4%BA%8B.epub)（*Blackfoot Lodge Tales*） — 保留早期材料，同时警惕采录者删改。 [来源](<https://www.mesoweb.com/publications/Christenson/index.html>)
@@ -296,7 +296,7 @@ English: [README.en.md](README.en.md)
 - **173 《希伊阿卡与佩蕾史诗》｜中途暂停，暂不发布**（*The Epic Tale of Hiʻiakaikapoliopele*） — 优先读夏威夷语原文对应的完整现代译本。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [174 《佩蕾与希伊阿卡》](174%20%E4%BD%A9%E8%95%BE%E4%B8%8E%E5%B8%8C%E4%BC%8A%E9%98%BF%E5%8D%A1.epub)（*Pele and Hiiaka*） — 与上一项对读，观察不同文本化路径。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [175 《祖先的事迹》毛利语手稿](175%20%E7%A5%96%E5%85%88%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%AF%9B%E5%88%A9%E8%AF%AD%E6%89%8B%E7%A8%BF.epub)（*Nga Mahi a Nga Tupuna*） — 优先毛利语手稿或忠实校勘；格雷改编本仅作对照。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
-- **176 《学宫知识》｜中途暂停，暂不发布**（*The Lore of the Whare-wānanga*） — 注明传承与争议，不把它当全毛利唯一正典。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
+- [176 《学宫知识》](176%20%E5%AD%A6%E5%AE%AB%E7%9F%A5%E8%AF%86.epub)（*The Lore of the Whare-wānanga*） — 注明传承与争议，不把它当全毛利唯一正典。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [177 《萨摩亚创世故事》原语记录](177%20%E8%90%A8%E6%91%A9%E4%BA%9A%E5%88%9B%E4%B8%96%E6%95%85%E4%BA%8B%E5%8E%9F%E8%AF%AD%E8%AE%B0%E5%BD%95.epub)（*The Samoan Story of Creation*） — 选择带萨摩亚语、讲述来源和采录说明的版本。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [178 《乌利西环礁故事》直接记录](178%20%E4%B9%8C%E5%88%A9%E8%A5%BF%E7%8E%AF%E7%A4%81%E6%95%85%E4%BA%8B%E7%9B%B4%E6%8E%A5%E8%AE%B0%E5%BD%95.epub)（*Tales from Ulithi Atoll*） — 只用带讲述者与语言文本的学术记录。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [179 澳大利亚第一民族社区授权叙事集](179%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%AC%AC%E4%B8%80%E6%B0%91%E6%97%8F%E7%A4%BE%E5%8C%BA%E6%8E%88%E6%9D%83%E5%8F%99%E4%BA%8B%E9%9B%86.epub)（*Community-authorized Australian First Nations narratives*） — 没有泛澳洲《梦创神话原典》；仅读社群授权公开版本，遵守性别、仪式和地域限制。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
@@ -320,7 +320,7 @@ English: [README.en.md](README.en.md)
 - [192 《约翰密传》](192%20%E7%BA%A6%E7%BF%B0%E5%AF%86%E4%BC%A0.epub)（*Apocryphon of John*） — 至高神、发光者、索菲亚与造物主雅达巴沃的完整神话体系。 [来源](<https://scholarlyeditions.brill.com/cglo/>)
 - [193 《统治者的本质》](193%20%E7%BB%9F%E6%B2%BB%E8%80%85%E7%9A%84%E6%9C%AC%E8%B4%A8.epub)（*Hypostasis of the Archons*） — 重写《创世记》的统治者、夏娃、诺瑞亚与灵性人类。 [来源](<https://scholarlyeditions.brill.com/cglo/>)
 - [194 《犹大福音》](194%20%E7%8A%B9%E5%A4%A7%E7%A6%8F%E9%9F%B3.epub)（*Gospel of Judas*） — 以宇宙层级和特殊启示重塑犹大角色；手稿残缺。 [来源](<https://scholarlyeditions.brill.com/cglo/>)
-- **195 《皮斯蒂斯·索菲亚》｜中途暂停，暂不发布**（*Pistis Sophia*） — 复活后的耶稣讲述索菲亚堕落、悔罪与光界结构。 [来源](<https://scholarlyeditions.brill.com/cglo/>)
+- [195 《皮斯蒂斯·索菲亚》](195%20%E7%9A%AE%E6%96%AF%E8%92%82%E6%96%AF%C2%B7%E7%B4%A2%E8%8F%B2%E4%BA%9A.epub)（*Pistis Sophia*） — 复活后的耶稣讲述索菲亚堕落、悔罪与光界结构。 [来源](<https://scholarlyeditions.brill.com/cglo/>)
 - [196 《希腊魔法纸草》选读](196%20%E5%B8%8C%E8%85%8A%E9%AD%94%E6%B3%95%E7%BA%B8%E8%8D%89%E9%80%89%E8%AF%BB.epub)（*Greek Magical Papyri*） — 神名、祈请、护符与占卜的直接文献；仅作历史文本阅读，不提供实践步骤。 [来源](<https://papyri.info/>)
 - [197 《焚烧》驱巫仪式系列](197%20%E7%84%9A%E7%83%A7%E9%A9%B1%E5%B7%AB%E4%BB%AA%E5%BC%8F%E7%B3%BB%E5%88%97.epub)（*Maqlû*） — 以夜间仪式、神祈与焚毁像对抗被感知的巫术；不同于现代“黑魔法书”。 [来源](<https://etcsl.orinst.ox.ac.uk/>)
 - [198 《焚化》净罪仪式系列](198%20%E7%84%9A%E5%8C%96%E5%87%80%E7%BD%AA%E4%BB%AA%E5%BC%8F%E7%B3%BB%E5%88%97.epub)（*Šurpu*） — 处理不明罪责、禁忌与神怒，是理解宗教恐惧和净化的重要原典。 [来源](<https://etcsl.orinst.ox.ac.uk/>)
