@@ -8,30 +8,19 @@ English: [README.en.md](README.en.md)
 
 ## 仓库现状
 
-目前发布 **203** 种已译完、带封面的 EPUB。主序列有 **205** 个现行编号位置：203 本成品加 2 个未译完或中途暂停的保留位。文件名采用三位编号加书名，例如 `001 埃利都创世记.epub`。
+目前发布 **205** 种已译完、带封面的 EPUB。主序列 **001–205** 均有成品，不再保留空号。文件名采用三位编号加书名，例如 `001 埃利都创世记.epub`。
 
-旧目录中 25 个未实施或已取消的条目已从主序列删除，不再形成空号。其余条目已整体前移，只有下方 2 个未完/暂停位置没有 EPUB。
+旧目录中 25 个未实施或已取消的条目已从主序列删除，不再形成空号。其余条目已整体前移。071 与 173 现已补入，主序列不再留空。
 
 [附录/000 FGO神话人物总表.epub](%E9%99%84%E5%BD%95/000%20FGO%E7%A5%9E%E8%AF%9D%E4%BA%BA%E7%89%A9%E6%80%BB%E8%A1%A8.epub) 是 Fate/Grand Order 人物与本书的对照索引，不进入 001 起的主序列。
 
 本库不收草稿、未封本或不完整 EPUB。
 
-## 现行空号
-
-下列编号仅为未完或中途暂停条目保留，其他编号都应有对应 EPUB：
-
-| 现行编号 | 书名 | 状态 |
-| --- | --- | --- |
-| 071 | 《摩诃婆罗多》 | 本地 EPUB 缺第六、七、十二、十三篇正文，暂不发布。 |
-| 173 | 《希伊阿卡与佩蕾史诗》 | 中途暂停；无成品 EPUB；与已发布的《佩蕾与希伊阿卡》不是同一部书。 |
-
 ## 本次更新（2026-09-27）
 
-新增 8 本：144《帕西法尔》、146《亚瑟之死》、163《丘马耶尔的奇兰·巴兰之书》、165《佛罗伦萨抄本》卷一至三、六、167《瓦罗奇里手稿》、168《纳瓦霍创世记》、176《学宫知识》、195《皮斯蒂斯·索菲亚》。沿用现行编号。
+在现行编号下补入最后两本：071《摩诃婆罗多》（Ganguli 十八篇；目录含第六、七、十二、十三篇）、173《希伊阿卡与佩蕾史诗》（1905–1906 年《Ka Naʻi Aupuni》连载；识读残缺处标〔……〕）。173 与 174《佩蕾与希伊阿卡》不是同一部书。
 
-版本范围：167 收录 Markham 1873 年英译所据的阿维拉八章文本，**不是克丘亚语《瓦罗奇里手稿》三十一章全本**；168 收录 Matthews 1897 年《纳瓦霍起源传说》，不是 Zolbrod 1984 年《Diné bahaneʼ》。各册具体范围见书内底本说明。
-
-本次检查了新增 EPUB 的压缩完整性、XML、清单资源、封面和正文结构；这些检查不等于逐句译文审校。071 的本地 EPUB 尚缺四篇，173 未找到成品，继续保留空号。
+此前已入库的 8 本仍用现行号：144、146、163、165、167、168、176、195。167 是阿维拉《论说》八章，不是克丘亚语三十一章全文；168 是马修斯 1897 年起源传说。
 
 ## 完整目录与逐书简介
 
@@ -136,7 +125,7 @@ English: [README.en.md](README.en.md)
 - [068 《百道梵书》神话段落](068%20%E7%99%BE%E9%81%93%E6%A2%B5%E4%B9%A6%E7%A5%9E%E8%AF%9D%E6%AE%B5%E8%90%BD.epub)（*Śatapatha Brāhmaṇa*） — 重点读摩奴洪水、普阇波提与祭祀创世。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
 - [069 《主要奥义书》](069%20%E4%B8%BB%E8%A6%81%E5%A5%A5%E4%B9%89%E4%B9%A6.epub)（*Principal Upaniṣads*） — 先读《广林》《歌者》《由谁》《羯陀》《蛙氏》《伊莎》，建立梵、我、轮回与死后道路。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
 - [070 《罗摩衍那》](070%20%E7%BD%97%E6%91%A9%E8%A1%8D%E9%82%A3.epub)（*Vālmīki Rāmāyaṇa*） — 坚持七篇完整译本，并留意第1、7篇文本层次争议。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
-- **071 《摩诃婆罗多》｜未译完，暂不发布**（*Mahābhārata*） — 读未经删节的十八篇；《薄伽梵歌》在第六篇中。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
+- [071 《摩诃婆罗多》](071%20%E6%91%A9%E8%AF%83%E5%A9%86%E7%BD%97%E5%A4%9A.epub)（*Mahābhārata*） — Ganguli 公有领域英译十八篇全文；《薄伽梵歌》在第六篇中。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
 - [072 《薄伽梵歌》](072%20%E8%96%84%E4%BC%BD%E6%A2%B5%E6%AD%8C.epub)（*Bhagavad Gītā*） — 作为宗教专线单独细读；读完整《摩诃婆罗多》至此时不必重复。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
 - [073 《诃利世系》](073%20%E8%AF%83%E5%88%A9%E4%B8%96%E7%B3%BB.epub)（*Harivaṃśa*） — 补足毗湿奴与黑天的出生、童年及族谱。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
 - [074 《毗湿奴往世书》](074%20%E6%AF%97%E6%B9%BF%E5%A5%B4%E5%BE%80%E4%B8%96%E4%B9%A6.epub)（*Viṣṇu Purāṇa*） — 较紧凑地连接创世、曼万塔拉、王统与化身。 [来源](<https://gretil.sub.uni-goettingen.de/gretil.html>)
@@ -293,7 +282,7 @@ English: [README.en.md](README.en.md)
 这里尤其不能把“所有秘密知识”当成可消费书目；只列公开、可归属、可合法阅读的记录。
 
 - [172 《库穆利波》](172%20%E5%BA%93%E7%A9%86%E5%88%A9%E6%B3%A2.epub)（*Kumulipo*） — 从宇宙黑夜、生命生成到王族谱系。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
-- **173 《希伊阿卡与佩蕾史诗》｜中途暂停，暂不发布**（*The Epic Tale of Hiʻiakaikapoliopele*） — 优先读夏威夷语原文对应的完整现代译本。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
+- [173 《希伊阿卡与佩蕾史诗》](173%20%E5%B8%8C%E4%BC%8A%E9%98%BF%E5%8D%A1%E4%B8%8E%E4%BD%A9%E8%95%BE%E5%8F%B2%E8%AF%97.epub)（*The Epic Tale of Hiʻiakaikapoliopele*） — 据 1905–1906 年《Ka Naʻi Aupuni》连载译出；识读残缺处标〔……〕。与 174 不是同一部书。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [174 《佩蕾与希伊阿卡》](174%20%E4%BD%A9%E8%95%BE%E4%B8%8E%E5%B8%8C%E4%BC%8A%E9%98%BF%E5%8D%A1.epub)（*Pele and Hiiaka*） — 与上一项对读，观察不同文本化路径。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [175 《祖先的事迹》毛利语手稿](175%20%E7%A5%96%E5%85%88%E7%9A%84%E4%BA%8B%E8%BF%B9%E6%AF%9B%E5%88%A9%E8%AF%AD%E6%89%8B%E7%A8%BF.epub)（*Nga Mahi a Nga Tupuna*） — 优先毛利语手稿或忠实校勘；格雷改编本仅作对照。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
 - [176 《学宫知识》](176%20%E5%AD%A6%E5%AE%AB%E7%9F%A5%E8%AF%86.epub)（*The Lore of the Whare-wānanga*） — 注明传承与争议，不把它当全毛利唯一正典。 [来源](<https://www.soest.hawaii.edu/GG/FACULTY/ROWLAND/GG104/Readings/Liliuokalani_1897.pdf>)
